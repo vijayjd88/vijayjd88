@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vijayjd88
-- 👀 I’m interested in java and python
+- 👋 Hi, I’m Vijay Jones Durai
+- 👀 I’m interested in java, python and machine learning
 - 🌱 I’m currently learning java, SQL and python
 - 💞️ I’m looking to collaborate on spring boot projects, web development and data analysis projects 
 - 📫 How to reach me ... vijayjd88@gmail.com
